@@ -6,7 +6,7 @@ class SampleProgram
 {
 	for(int i=0; i<10; i++)
 	{
-		System.out.println(i+">>>>===Hello Jenkins===<<<<");
+		System.out.println(i+">>>>---------Hello Jenkins----------<<<<");
 	}	
 	}
 	
